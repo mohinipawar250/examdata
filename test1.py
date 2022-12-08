@@ -1,4 +1,4 @@
-principal = float(input('Enter amount: '))
+principal = int(input('Enter amount: '))
 time = float(input('Enter time: '))
 rate = float(input('Enter rate: '))
 
