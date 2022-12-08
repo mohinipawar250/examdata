@@ -1,6 +1,10 @@
-principal = int(input('Enter amount: '))
-time = float(input('Enter time: '))
-rate = float(input('Enter rate: '))
+#principal = int(input('Enter amount:'))
+#time = float(input('Enter time: '))
+#rate = float(input('Enter rate: '))
+
+principal=5000
+time=2.5
+rate=2
 
 
 simple_interest = (principal*time*rate)/100
