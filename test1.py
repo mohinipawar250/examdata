@@ -1,4 +1,3 @@
-
 principal = float(input('Enter amount: '))
 time = float(input('Enter time: '))
 rate = float(input('Enter rate: '))
